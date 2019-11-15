@@ -2,8 +2,8 @@
 自动发信息到微博、Twitter等社交媒体
 
 ## 项目地址：
-### 微博
-链接: https://www.weibo.com/u/7008786190
+### 微博 https://www.weibo.com/u/7008786190
+
 ![Mavhxx.png](https://s2.ax1x.com/2019/11/15/Mavhxx.png)
 ![image.png](https://i.loli.net/2019/11/15/T5UfCojmZPg6Wk9.png)
 
